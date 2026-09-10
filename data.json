@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-10T17:46:37-03:00",
- "total": 57,
- "fetched": 57,
+ "generatedAt": "2026-09-10T18:44:49-03:00",
+ "total": 58,
+ "fetched": 58,
  "issues": [
   {
    "k": "BTHSC-330556",
@@ -574,13 +574,13 @@
    "k": "BTHSC-351168",
    "proj": "BTHSC",
    "s": "Problema no envio do Esfinge (contacorrente)",
-   "st": "Aguardando solicitante",
+   "st": "Aguardando Triagem (SUP)",
    "sc": "To Do",
    "a": "Nereu Alexandre de Col",
    "p": "3 - Media",
    "t": "Dúvida",
    "c": "2026-09-04T16:04:22.000-0300",
-   "u": "2026-09-08T13:46:49.000-0300",
+   "u": "2026-09-10T18:06:07.000-0300",
    "f": "Geração arquivos TCE-SC (e-Sfinge)",
    "pf": "Portfólio Médias Contas",
    "v": "Contábil",
@@ -589,7 +589,7 @@
    "eq": "Suporte",
    "br": false,
    "rem": 26243706,
-   "paused": true
+   "paused": false
   },
   {
    "k": "BTHSC-351189",
@@ -616,13 +616,13 @@
    "k": "BTHSC-351223",
    "proj": "BTHSC",
    "s": "Erro ao enviar empenho",
-   "st": "Aguardando solicitante",
+   "st": "Aguardando aprovação do solicitante",
    "sc": "To Do",
    "a": "Jean Vitor Vieira",
    "p": "3 - Media",
    "t": "Dúvida",
    "c": "2026-09-04T17:18:25.000-0300",
-   "u": "2026-09-10T17:09:47.000-0300",
+   "u": "2026-09-10T18:00:42.000-0300",
    "f": "Geração arquivos TCE-SC (e-Sfinge)",
    "pf": "Portfólio Pequenas Contas",
    "v": "Contábil",
@@ -630,7 +630,7 @@
    "m": "Luzerna",
    "eq": "Suporte",
    "br": false,
-   "rem": 21235612,
+   "rem": 20775402,
    "paused": true
   },
   {
@@ -952,13 +952,13 @@
    "k": "BTHSC-351972",
    "proj": "BTHSC",
    "s": "CON 808 e 700",
-   "st": "Aguardando solicitante",
+   "st": "Aguardando Triagem (SUP)",
    "sc": "To Do",
    "a": "Aline de Oliveira Sa",
    "p": "3 - Media",
    "t": "Dúvida",
    "c": "2026-09-09T15:03:40.000-0300",
-   "u": "2026-09-10T10:40:05.000-0300",
+   "u": "2026-09-10T18:13:01.000-0300",
    "f": "Geração arquivos TCE-SC (e-Sfinge)",
    "pf": "Portfólio Médias Contas",
    "v": "Pessoal",
@@ -967,7 +967,7 @@
    "eq": "Suporte",
    "br": false,
    "rem": 12024202,
-   "paused": true
+   "paused": false
   },
   {
    "k": "BTHSC-352138",
@@ -987,7 +987,7 @@
    "m": "São João do Oeste",
    "eq": "Suporte",
    "br": false,
-   "rem": 2455141,
+   "rem": 1444675,
    "paused": false
   },
   {
@@ -1075,6 +1075,27 @@
    "paused": true
   },
   {
+   "k": "BTHSC-352345",
+   "proj": "BTHSC",
+   "s": "erro retorno e-sfinge",
+   "st": "Aguardando aprovação do solicitante",
+   "sc": "To Do",
+   "a": "Felipe Costa Machado",
+   "p": "3 - Media",
+   "t": "Dúvida",
+   "c": "2026-09-10T12:01:03.000-0300",
+   "u": "2026-09-10T17:47:33.000-0300",
+   "f": "Integração e-Sfinge",
+   "pf": "Portfólio Médias Contas",
+   "v": "Arrecadação",
+   "e": "Município de Forquilhinha - Forquilhinha/SC",
+   "m": "Forquilhinha",
+   "eq": "Suporte",
+   "br": false,
+   "rem": 13346954,
+   "paused": true
+  },
+  {
    "k": "BTHSC-352355",
    "proj": "BTHSC",
    "s": "Esfinge 082026 erro passo 9",
@@ -1092,7 +1113,7 @@
    "m": "Painel",
    "eq": "Suporte",
    "br": false,
-   "rem": 19528942,
+   "rem": 18518458,
    "paused": false
   },
   {
@@ -1113,7 +1134,7 @@
    "m": "Grão Pará",
    "eq": "Suporte",
    "br": false,
-   "rem": 23467413,
+   "rem": 22456924,
    "paused": false
   },
   {
@@ -1197,7 +1218,7 @@
    "m": "Braço do Trombudo",
    "eq": "Suporte",
    "br": false,
-   "rem": 24722715,
+   "rem": 23712210,
    "paused": false
   }
  ],

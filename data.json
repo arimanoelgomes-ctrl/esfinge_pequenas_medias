@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11T12:11:07-03:00",
+ "generatedAt": "2026-09-11T12:40:50-03:00",
  "total": 59,
  "fetched": 59,
  "issues": [
@@ -175,13 +175,13 @@
    "k": "BTHSC-351506",
    "proj": "BTHSC",
    "s": "ERRO  Assunto 10 – e-Sfinge Online 2026 – Baixa dos Créditos Tributários",
-   "st": "Aguardando aprovação do solicitante",
+   "st": "Aguardando Triagem (SUP)",
    "sc": "To Do",
    "a": "Felipe Costa Machado",
    "p": "3 - Media",
    "t": "Dúvida",
    "c": "2026-09-08T13:45:37.000-0300",
-   "u": "2026-09-11T11:17:05.000-0300",
+   "u": "2026-09-11T12:37:11.000-0300",
    "f": "Integração e-Sfinge",
    "pf": "Portfólio Médias Contas",
    "v": "Arrecadação",
@@ -190,7 +190,7 @@
    "eq": "Suporte",
    "br": true,
    "rem": -53731849,
-   "paused": true
+   "paused": false
   },
   {
    "k": "BTHSC-340419",
@@ -1120,13 +1120,13 @@
    "k": "BTHSC-352662",
    "proj": "BTHSC",
    "s": "Erro de retorno - diário de arrecadação",
-   "st": "Aguardando aprovação do solicitante",
+   "st": "Aguardando Triagem (SUP)",
    "sc": "To Do",
    "a": "Felipe Costa Machado",
    "p": "3 - Media",
    "t": "Dúvida",
    "c": "2026-09-11T09:41:26.000-0300",
-   "u": "2026-09-11T11:43:41.000-0300",
+   "u": "2026-09-11T12:31:09.000-0300",
    "f": "Integração e-Sfinge",
    "pf": "Portfólio Médias Contas",
    "v": "Arrecadação",
@@ -1135,7 +1135,7 @@
    "eq": "Suporte",
    "br": false,
    "rem": 21695963,
-   "paused": true
+   "paused": false
   },
   {
    "k": "BTHSC-352685",

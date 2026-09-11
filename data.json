@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-11T09:59:10-03:00",
- "total": 57,
- "fetched": 57,
+ "generatedAt": "2026-09-11T10:12:25-03:00",
+ "total": 55,
+ "fetched": 55,
  "issues": [
   {
    "k": "BTHSC-330556",
@@ -64,27 +64,6 @@
    "eq": "Suporte",
    "br": true,
    "rem": -255852039,
-   "paused": true
-  },
-  {
-   "k": "BTHSC-346411",
-   "proj": "BTHSC",
-   "s": "PM São Bonifácio - e-Sfinge - Erro de dados no Script de Validação de CONs - Competência 06/2026.",
-   "st": "Aguardando aprovação do solicitante",
-   "sc": "To Do",
-   "a": "Filipe Pereira Andrade",
-   "p": "3 - Media",
-   "t": "Dúvida",
-   "c": "2026-08-21T16:53:56.000-0300",
-   "u": "2026-09-04T09:52:36.000-0300",
-   "f": "Geração arquivos TCE-SC (e-Sfinge)",
-   "pf": "Portfólio Pequenas Contas",
-   "v": "Arrecadação",
-   "e": "Município de São Bonifácio - São Bonifácio/SC",
-   "m": "São Bonifácio",
-   "eq": "Suporte",
-   "br": true,
-   "rem": -94480050,
    "paused": true
   },
   {
@@ -231,7 +210,7 @@
    "m": "São João do Oeste",
    "eq": "Suporte",
    "br": true,
-   "rem": -3753628,
+   "rem": -4399057,
    "paused": false
   },
   {
@@ -548,27 +527,6 @@
    "br": false,
    "rem": 1036788,
    "paused": true
-  },
-  {
-   "k": "BTHSC-351168",
-   "proj": "BTHSC",
-   "s": "Problema no envio do Esfinge (contacorrente)",
-   "st": "Aguardando Triagem (SUP)",
-   "sc": "To Do",
-   "a": "Nereu Alexandre de Col",
-   "p": "3 - Media",
-   "t": "Dúvida",
-   "c": "2026-09-04T16:04:22.000-0300",
-   "u": "2026-09-11T09:56:29.000-0300",
-   "f": "Geração arquivos TCE-SC (e-Sfinge)",
-   "pf": "Portfólio Médias Contas",
-   "v": "Contábil",
-   "e": "Município de Armazém - Prefeitura - Armazém/SC",
-   "m": "Armazém",
-   "eq": "Suporte",
-   "br": false,
-   "rem": 23574742,
-   "paused": false
   },
   {
    "k": "BTHSC-351189",
@@ -987,7 +945,7 @@
    "m": "Bandeirante",
    "eq": "Suporte",
    "br": false,
-   "rem": 20563918,
+   "rem": 19918532,
    "paused": false
   },
   {
@@ -1050,7 +1008,7 @@
    "m": "Painel",
    "eq": "Suporte",
    "br": false,
-   "rem": 13320788,
+   "rem": 12674887,
    "paused": false
   },
   {
@@ -1120,13 +1078,13 @@
    "k": "BTHSC-352527",
    "proj": "BTHSC",
    "s": "E-SFINGE 2026",
-   "st": "Aguardando Triagem (SUP)",
+   "st": "Aguardando aprovação do solicitante",
    "sc": "To Do",
-   "a": "Sem responsável",
+   "a": "Jéssica Lino Borges",
    "p": "3 - Media",
    "t": "Dúvida",
    "c": "2026-09-10T16:35:03.000-0300",
-   "u": "2026-09-10T17:14:19.000-0300",
+   "u": "2026-09-11T10:01:05.000-0300",
    "f": "Integração e-Sfinge",
    "pf": "Portfólio Médias Contas",
    "v": "Arrecadação",
@@ -1134,8 +1092,8 @@
    "m": "Braço do Trombudo",
    "eq": "Suporte",
    "br": false,
-   "rem": 18514806,
-   "paused": false
+   "rem": 18346015,
+   "paused": true
   },
   {
    "k": "BTHSC-352594",

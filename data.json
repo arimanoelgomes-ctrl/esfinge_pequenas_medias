@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-11T12:40:50-03:00",
- "total": 59,
- "fetched": 59,
+ "generatedAt": "2026-09-11T13:10:43-03:00",
+ "total": 58,
+ "fetched": 58,
  "issues": [
   {
    "k": "BTHSC-330556",
@@ -328,7 +328,7 @@
    "p": "4 - Baixa",
    "t": "Acompanhamento técnico",
    "c": "2026-09-02T15:14:49.000-0300",
-   "u": "2026-09-11T10:26:35.000-0300",
+   "u": "2026-09-11T13:09:03.000-0300",
    "f": "Geração arquivos TCE-SC (e-Sfinge)",
    "pf": "Portfólio Médias Contas",
    "v": "Pessoal",
@@ -358,27 +358,6 @@
    "eq": "Suporte",
    "br": false,
    "rem": 26419389,
-   "paused": true
-  },
-  {
-   "k": "BTHSC-350421",
-   "proj": "BTHSC",
-   "s": "resultado do Concurso 03/2026SME",
-   "st": "Aguardando atendimento (FL)",
-   "sc": "To Do",
-   "a": "Jessica Silveira Formentin",
-   "p": "4 - Baixa",
-   "t": "Acompanhamento técnico",
-   "c": "2026-09-02T17:16:47.000-0300",
-   "u": "2026-09-11T12:03:05.000-0300",
-   "f": "Geração arquivos TCE-SC (e-Sfinge)",
-   "pf": "Portfólio Médias Contas",
-   "v": "Pessoal",
-   "e": "Prefeitura Municipal Campo Belo do Sul - Campo Belo do Sul/SC",
-   "m": "Campo Belo do Sul",
-   "eq": "Serviço",
-   "br": false,
-   "rem": 16349319,
    "paused": true
   },
   {
@@ -1078,13 +1057,13 @@
    "k": "BTHSC-352595",
    "proj": "BTHSC",
    "s": "sfinge retorno TCE",
-   "st": "Aguardando aprovação do solicitante",
+   "st": "Aguardando Triagem (SUP)",
    "sc": "To Do",
    "a": "Fernando Murilo Fermino",
    "p": "3 - Media",
    "t": "Dúvida",
    "c": "2026-09-10T23:49:56.000-0300",
-   "u": "2026-09-11T09:49:03.000-0300",
+   "u": "2026-09-11T12:55:12.000-0300",
    "f": "Integração e-Sfinge",
    "pf": "Portfólio Médias Contas",
    "v": "Arrecadação",
@@ -1093,7 +1072,7 @@
    "eq": "Suporte",
    "br": false,
    "rem": 24056335,
-   "paused": true
+   "paused": false
   },
   {
    "k": "BTHSC-352640",

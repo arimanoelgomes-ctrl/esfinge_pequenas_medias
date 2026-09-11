@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11T17:07:58-03:00",
+ "generatedAt": "2026-09-11T17:16:04-03:00",
  "total": 59,
  "fetched": 59,
  "issues": [
@@ -105,7 +105,7 @@
    "m": "Dona Emma",
    "eq": "Suporte",
    "br": true,
-   "rem": -81022392,
+   "rem": -81427921,
    "paused": false
   },
   {
@@ -189,7 +189,7 @@
    "m": "Orleans",
    "eq": "Suporte",
    "br": true,
-   "rem": -66766506,
+   "rem": -67173240,
    "paused": false
   },
   {
@@ -882,7 +882,7 @@
    "m": "Lauro Muller",
    "eq": "Suporte",
    "br": false,
-   "rem": 9878980,
+   "rem": 9471614,
    "paused": false
   },
   {
@@ -1029,7 +1029,7 @@
    "m": "Forquilhinha",
    "eq": "Suporte",
    "br": false,
-   "rem": 8662281,
+   "rem": 8254642,
    "paused": false
   },
   {
@@ -1092,7 +1092,7 @@
    "m": "Frei Rogério",
    "eq": "Suporte",
    "br": false,
-   "rem": 12795905,
+   "rem": 12388177,
    "paused": false
   },
   {
@@ -1113,7 +1113,7 @@
    "m": "Vargem Bonita",
    "eq": "Suporte",
    "br": false,
-   "rem": 15187113,
+   "rem": 14779352,
    "paused": false
   },
   {
@@ -1197,7 +1197,7 @@
    "m": "Treze de Maio",
    "eq": "Suporte",
    "br": false,
-   "rem": 22978169,
+   "rem": 22570231,
    "paused": false
   },
   {
@@ -1218,7 +1218,7 @@
    "m": "Rio Rufino",
    "eq": "Suporte",
    "br": false,
-   "rem": 23893016,
+   "rem": 23485053,
    "paused": false
   },
   {
@@ -1239,7 +1239,7 @@
    "m": "Abdon Batista",
    "eq": "Suporte",
    "br": false,
-   "rem": 28383396,
+   "rem": 27975409,
    "paused": false
   }
  ]

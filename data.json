@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11T18:10:50-03:00",
+ "generatedAt": "2026-09-13T14:20:34-03:00",
  "total": 59,
  "fetched": 59,
  "issues": [
@@ -175,13 +175,13 @@
    "k": "BTHSC-340419",
    "proj": "BTHSC",
    "s": "Erro CON 807",
-   "st": "Aguardando solicitante",
+   "st": "Aguardando atendimento (FL)",
    "sc": "To Do",
    "a": "Maria Laura Dias Clemente",
    "p": "1 - Muito alta",
    "t": "Incidente",
    "c": "2026-08-05T14:52:24.000-0300",
-   "u": "2026-09-08T11:26:52.000-0300",
+   "u": "2026-09-13T11:37:11.000-0300",
    "f": "Integração e-Sfinge",
    "pf": "Portfólio Médias Contas",
    "v": "Arrecadação",
